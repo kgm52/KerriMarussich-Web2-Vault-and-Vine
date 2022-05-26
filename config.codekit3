@@ -9,132 +9,244 @@
   ],
   "creatorBuild" : "34335",
   "files" : {
-    "\/assets\/icons\/Button.svg" : {
+    "\/assets\/fonts\/Italiana\/Italiana-Regular.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Italiana\/Italiana-Regular.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Italiana\/OFL.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Italiana\/OFL.txt",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/OFL.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/OFL.txt",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/Outfit-VariableFont_wght.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/Outfit-VariableFont_wght.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/README.txt" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/README.txt",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-Black.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-Black.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-Bold.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-Bold.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-ExtraBold.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-ExtraBold.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-ExtraLight.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-ExtraLight.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-Light.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-Light.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-Medium.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-Medium.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-Regular.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-Regular.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-SemiBold.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-SemiBold.ttf",
+      "oF" : 0
+    },
+    "\/assets\/fonts\/Outfit\/static\/Outfit-Thin.ttf" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/assets\/fonts\/Outfit\/static\/Outfit-Thin.ttf",
+      "oF" : 0
+    },
+    "\/assets\/img\/icons\/Button.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/Button.svg",
+      "oAP" : "\/assets\/img\/icons\/Button.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/DownArrow.svg" : {
+    "\/assets\/img\/icons\/DownArrow.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/DownArrow.svg",
+      "oAP" : "\/assets\/img\/icons\/DownArrow.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/footer\/Clock.svg" : {
+    "\/assets\/img\/icons\/footer\/Clock.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/footer\/Clock.svg",
+      "oAP" : "\/assets\/img\/icons\/footer\/Clock.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/footer\/Location.svg" : {
+    "\/assets\/img\/icons\/footer\/Location.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/footer\/Location.svg",
+      "oAP" : "\/assets\/img\/icons\/footer\/Location.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/footer\/Mail.svg" : {
+    "\/assets\/img\/icons\/footer\/Mail.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/footer\/Mail.svg",
+      "oAP" : "\/assets\/img\/icons\/footer\/Mail.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/footer\/Phone.svg" : {
+    "\/assets\/img\/icons\/footer\/Phone.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/footer\/Phone.svg",
+      "oAP" : "\/assets\/img\/icons\/footer\/Phone.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/HamburgerMenu.svg" : {
+    "\/assets\/img\/icons\/HamburgerMenu.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/HamburgerMenu.svg",
+      "oAP" : "\/assets\/img\/icons\/HamburgerMenu.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/Logo.svg" : {
+    "\/assets\/img\/icons\/Logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/Logo.svg",
+      "oAP" : "\/assets\/img\/icons\/Logo.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/RoundSelectionButton.svg" : {
+    "\/assets\/img\/icons\/RoundSelectionButton.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/RoundSelectionButton.svg",
+      "oAP" : "\/assets\/img\/icons\/RoundSelectionButton.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/Search.svg" : {
+    "\/assets\/img\/icons\/Search.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/Search.svg",
+      "oAP" : "\/assets\/img\/icons\/Search.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/ShoppingBag.svg" : {
+    "\/assets\/img\/icons\/ShoppingBag.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/ShoppingBag.svg",
+      "oAP" : "\/assets\/img\/icons\/ShoppingBag.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/icons\/X.svg" : {
+    "\/assets\/img\/icons\/X.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/icons\/X.svg",
+      "oAP" : "\/assets\/img\/icons\/X.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/large\/Hero1.jpg" : {
+    "\/assets\/img\/large\/Hero1.jpg" : {
       "ft" : 16384,
       "iS" : 805454,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/large\/Hero1.jpg",
+      "oAP" : "\/assets\/img\/large\/Hero1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -142,12 +254,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/large\/Hero2.jpg" : {
+    "\/assets\/img\/large\/Hero2.jpg" : {
       "ft" : 16384,
       "iS" : 251576,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/large\/Hero2.jpg",
+      "oAP" : "\/assets\/img\/large\/Hero2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -155,12 +267,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/large\/Hero3.jpg" : {
+    "\/assets\/img\/large\/Hero3.jpg" : {
       "ft" : 16384,
       "iS" : 172094,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/large\/Hero3.jpg",
+      "oAP" : "\/assets\/img\/large\/Hero3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -168,32 +280,32 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/large\/Plant1.svg" : {
+    "\/assets\/img\/large\/Plant1.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/large\/Plant1.svg",
+      "oAP" : "\/assets\/img\/large\/Plant1.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/large\/Plant2.svg" : {
+    "\/assets\/img\/large\/Plant2.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/large\/Plant2.svg",
+      "oAP" : "\/assets\/img\/large\/Plant2.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/mobile\/Hero1.jpg" : {
+    "\/assets\/img\/mobile\/Hero1.jpg" : {
       "ft" : 16384,
       "iS" : 159202,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/mobile\/Hero1.jpg",
+      "oAP" : "\/assets\/img\/mobile\/Hero1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -201,12 +313,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/services\/Cafe.jpg" : {
+    "\/assets\/img\/services\/Cafe.jpg" : {
       "ft" : 16384,
       "iS" : 105076,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/services\/Cafe.jpg",
+      "oAP" : "\/assets\/img\/services\/Cafe.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -214,12 +326,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/services\/OurStory.jpg" : {
+    "\/assets\/img\/services\/OurStory.jpg" : {
       "ft" : 16384,
       "iS" : 78793,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/services\/OurStory.jpg",
+      "oAP" : "\/assets\/img\/services\/OurStory.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -227,12 +339,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/services\/Plants.jpg" : {
+    "\/assets\/img\/services\/Plants.jpg" : {
       "ft" : 16384,
       "iS" : 120185,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/services\/Plants.jpg",
+      "oAP" : "\/assets\/img\/services\/Plants.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -240,12 +352,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/services\/Shop.jpg" : {
+    "\/assets\/img\/services\/Shop.jpg" : {
       "ft" : 16384,
       "iS" : 80602,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/services\/Shop.jpg",
+      "oAP" : "\/assets\/img\/services\/Shop.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -253,12 +365,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/tablet\/Hero1.jpg" : {
+    "\/assets\/img\/tablet\/Hero1.jpg" : {
       "ft" : 16384,
       "iS" : 460078,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/tablet\/Hero1.jpg",
+      "oAP" : "\/assets\/img\/tablet\/Hero1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -266,12 +378,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/tablet\/Hero2.jpg" : {
+    "\/assets\/img\/tablet\/Hero2.jpg" : {
       "ft" : 16384,
       "iS" : 103613,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/tablet\/Hero2.jpg",
+      "oAP" : "\/assets\/img\/tablet\/Hero2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -279,12 +391,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/tablet\/Hero3.jpg" : {
+    "\/assets\/img\/tablet\/Hero3.jpg" : {
       "ft" : 16384,
       "iS" : 77470,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/tablet\/Hero3.jpg",
+      "oAP" : "\/assets\/img\/tablet\/Hero3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -292,32 +404,32 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/tablet\/Plant1.svg" : {
+    "\/assets\/img\/tablet\/Plant1.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/tablet\/Plant1.svg",
+      "oAP" : "\/assets\/img\/tablet\/Plant1.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/tablet\/Plant2.svg" : {
+    "\/assets\/img\/tablet\/Plant2.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/tablet\/Plant2.svg",
+      "oAP" : "\/assets\/img\/tablet\/Plant2.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/xlarge\/Hero1.jpg" : {
+    "\/assets\/img\/xlarge\/Hero1.jpg" : {
       "ft" : 16384,
       "iS" : 947667,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/xlarge\/Hero1.jpg",
+      "oAP" : "\/assets\/img\/xlarge\/Hero1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -325,12 +437,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/xlarge\/Hero2.jpg" : {
+    "\/assets\/img\/xlarge\/Hero2.jpg" : {
       "ft" : 16384,
       "iS" : 315861,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/xlarge\/Hero2.jpg",
+      "oAP" : "\/assets\/img\/xlarge\/Hero2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -338,12 +450,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/xlarge\/Hero3.jpg" : {
+    "\/assets\/img\/xlarge\/Hero3.jpg" : {
       "ft" : 16384,
       "iS" : 209128,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/assets\/xlarge\/Hero3.jpg",
+      "oAP" : "\/assets\/img\/xlarge\/Hero3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -351,21 +463,21 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/assets\/xlarge\/Plant1.svg" : {
+    "\/assets\/img\/xlarge\/Plant1.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/xlarge\/Plant1.svg",
+      "oAP" : "\/assets\/img\/xlarge\/Plant1.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
       "prP" : 0
     },
-    "\/assets\/xlarge\/Plant2.svg" : {
+    "\/assets\/img\/xlarge\/Plant2.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/assets\/xlarge\/Plant2.svg",
+      "oAP" : "\/assets\/img\/xlarge\/Plant2.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -947,6 +1059,14 @@
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
+    },
+    "\/README.html" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/README.html",
+      "oF" : 0
     },
     "\/README.md" : {
       "cB" : 0,
