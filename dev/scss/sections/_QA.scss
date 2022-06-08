@@ -1,0 +1,25 @@
+/* =============
+    QA
+============= */
+
+.QA {
+    .content {
+        display: grid;
+        grid-template-columns: 100%;
+        text-align: center;
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+        h2 {
+            text-align: center;
+        }
+
+        button {
+            background: none;
+            color: inherit;
+            border: none;
+        }
+    }
+}

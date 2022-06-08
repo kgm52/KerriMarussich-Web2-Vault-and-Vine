@@ -1,0 +1,16 @@
+/* =============
+    Hero 2
+============= */
+
+.hero2{
+    .content{
+        display: grid;
+        grid-template-columns: 50% 50%;
+        text-align: center;
+
+        img{
+            width:100%;
+            object-fit: contain;
+        }
+    }
+}

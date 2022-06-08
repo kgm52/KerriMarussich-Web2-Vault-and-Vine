@@ -1,0 +1,36 @@
+/* =============
+    Hiring
+============= */
+
+.hiring {
+    .content {
+        display: grid;
+        grid-template-columns: 100%;
+        text-align: center;
+        position: relative;
+
+        .box {
+            background-color: bisque;
+            padding-top: 16px;
+            padding-bottom: 16px;
+            padding-left: 80px;
+            padding-right: 80px;
+            border: 0px;
+            margin: auto;
+        }
+
+        h2 {
+            text-align: center;
+        }
+
+        h6{
+            text-align: center;
+        }
+        .centered {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+          }
+    }
+}

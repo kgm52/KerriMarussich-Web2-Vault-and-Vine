@@ -1,0 +1,15 @@
+/* =============
+    Hero
+============= */
+
+.hero {
+    .content{
+        display: grid;
+        grid-template-columns: 100%;
+        text-align: center;
+
+        img{
+            width:100%;
+        }
+    }
+}

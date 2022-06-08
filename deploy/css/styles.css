@@ -364,6 +364,10 @@ template {
 /* =============
     Typography
 ============= */
+body {
+  font-family: "Outfit", sans-serif;
+}
+
 /* =============
     Buttons
 ============= */
@@ -391,6 +395,183 @@ textarea {
 /* =============
     Header
 ============= */
+.header .content {
+  display: grid;
+  grid-template-columns: 25% 50% 12.5% 12.5%;
+  text-align: center;
+}
+.header .content h2 {
+  text-align: center;
+}
+.header .content h3 {
+  text-align: center;
+}
+.header .content .logo {
+  grid-template-columns: 100%;
+}
+
 /* =============
     Footer
 ============= */
+.footer .content {
+  display: grid;
+  grid-template-columns: 100%;
+  text-align: center;
+}
+.footer .content h3 {
+  color: white;
+  text-align: center;
+}
+.footer .content ul {
+  list-style: none;
+  padding: 0;
+}
+.footer .content ul h6 {
+  color: white;
+  text-align: center;
+}
+.footer .content ul p {
+  color: white;
+  text-align: center;
+}
+.footer .content ul .top {
+  grid-template-columns: 25% 25% 25% 25%;
+  text-align: center;
+}
+.footer .content ul .bottom {
+  grid-template-columns: 25% 25% 25% 25%;
+}
+.footer .background {
+  background-color: #896446;
+  grid-area: background;
+}
+
+/* =============
+    Hero
+============= */
+.hero .content {
+  display: grid;
+  grid-template-columns: 100%;
+  text-align: center;
+}
+.hero .content img {
+  width: 100%;
+}
+
+/* =============
+    Services
+============= */
+.services .content h1 {
+  text-align: center;
+  font-weight: 400;
+}
+.services .content ul {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: 100%;
+  text-align: center;
+}
+@media (min-width: 768px) {
+  .services .content ul {
+    grid-template-columns: 50% 50%;
+  }
+}
+@media (min-width: 992px) {
+  .services .content ul {
+    grid-template-columns: 25% 25% 25% 25%;
+  }
+}
+
+/* =============
+    Info
+============= */
+.info h6 {
+  text-align: center;
+}
+.info .background {
+  background-color: #896446;
+  grid-area: background;
+}
+
+/* =============
+    Hiring
+============= */
+.hiring .content {
+  display: grid;
+  grid-template-columns: 100%;
+  text-align: center;
+  position: relative;
+}
+.hiring .content .box {
+  background-color: bisque;
+  padding-top: 16px;
+  padding-bottom: 16px;
+  padding-left: 80px;
+  padding-right: 80px;
+  border: 0px;
+  margin: auto;
+}
+.hiring .content h2 {
+  text-align: center;
+}
+.hiring .content h6 {
+  text-align: center;
+}
+.hiring .content .centered {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+/* =============
+    QA
+============= */
+.QA .content {
+  display: grid;
+  grid-template-columns: 100%;
+  text-align: center;
+}
+.QA .content ul {
+  list-style: none;
+  padding: 0;
+}
+.QA .content h2 {
+  text-align: center;
+}
+.QA .content button {
+  background: none;
+  color: inherit;
+  border: none;
+}
+
+/* =============
+    Hero 2
+============= */
+.hero2 .content {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  text-align: center;
+}
+.hero2 .content img {
+  width: 100%;
+  object-fit: contain;
+}
+
+/* =============
+    Sign Up
+============= */
+.signup .content {
+  display: grid;
+  grid-template-columns: 100%;
+  text-align: center;
+}
+.signup .content h2 {
+  text-align: center;
+}
+.signup .content button {
+  background: none;
+  color: inherit;
+  border: none;
+}

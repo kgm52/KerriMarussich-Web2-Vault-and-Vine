@@ -1,0 +1,21 @@
+/* =============
+    Sign Up
+============= */
+
+.signup {
+    .content {
+        display: grid;
+        grid-template-columns: 100%;
+        text-align: center;
+
+        h2 {
+            text-align: center;
+        }
+
+        button {
+            background: none;
+            color: inherit;
+            border: none;
+        }
+    }
+}
