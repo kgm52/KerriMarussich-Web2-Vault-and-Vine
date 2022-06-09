@@ -3,6 +3,12 @@
 ============= */
 
 .hiring {
+    display: none;
+
+    @include md {
+        display: contents
+ }
+    
     .content {
         display: grid;
         grid-template-columns: 100%;
@@ -10,22 +16,60 @@
         position: relative;
 
         .box {
-            background-color: bisque;
+            background-color: $flesh;
             padding-top: 16px;
             padding-bottom: 16px;
-            padding-left: 80px;
-            padding-right: 80px;
+            padding-left: auto;
+            padding-right: auto;
             border: 0px;
-            margin: auto;
+            border-radius: 16px;
+            margin: 64px;
+
+            @include lg {
+                padding-top: 64px;
+                padding-bottom: 64px;
+                padding-left: auto;
+                padding-right: auto;
+            }
         }
 
         h2 {
+            font-family: Italiana;
+            font-weight: 300;
+            font-size: 48px;
             text-align: center;
+            color: black;
+            margin: 16px;
+
+            @include lg {
+                font-size: 64px;
+                text-align: center;
+                color: black;
+            }
         }
 
-        h6{
+        h6 {
+            font-family: Outfit;
+            font-weight: 400;
+            font-size: 20px;
             text-align: center;
+            color: black;
+            margin: 16px;
+
+            @include lg {
+                margin: 16px 0px 32px;
+            }
         }
+
+         p {
+             font-family: Outfit;
+             font-weight: 300;
+            font-size: 18px;
+            text-align: center;
+            color: black;
+            margin: 16px;
+        }
+
         .centered {
             position: absolute;
             top: 50%;

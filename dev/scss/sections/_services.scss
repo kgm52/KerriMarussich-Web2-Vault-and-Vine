@@ -5,19 +5,53 @@
 .services {
     .content {
 
-        h1{
-            text-align: center;
-            font-weight: 400;
+        img {
+            margin: 0px 8px -16px;
+        }
 
+        h1{
+            font-family: Italiana;
+            font-weight: 300;
+            font-size: 36px;
+            text-align: center;
+            color: black;
+            padding-top: 16px;
+            padding-bottom: 32px;
+
+            @include md {
+                font-size: 48px;
+                text-align: center;
+                color: black;
+            }
+
+            @include lg {
+                font-size: 64px;
+                text-align: center;
+                color: black;
+            }
+        }
+
+        h4 {
+            font-family: Italiana;
+            font-weight: 300;
+            font-size: 30px;
+            text-align: center;
+            color: black;
+            
+            @include md {
+                font-size: 36px;
+                text-align: center;
+                color: black;
+            }
         }
 
         ul {
             list-style: none;
             padding: 0;
-        
-         display: grid;
-          grid-template-columns: 100%;
-         text-align: center;
+            margin-bottom: -32px;
+            display: grid;
+            grid-template-columns: 100%;
+            text-align: center;
 
            @include md {
                 grid-template-columns: 50% 50%;
